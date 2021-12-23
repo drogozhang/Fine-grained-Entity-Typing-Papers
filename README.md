@@ -115,7 +115,7 @@ This repo contains a list of Fine-grained Entity Typing (FET) papers in various 
 ## Applications
 
 1. **Exploring Fine-grained Entity Type Constraints for Distantly Supervised Relation Extraction**. 2014. In Proceeding of COLING. [[paper](https://aclanthology.org/C14-1199.pdf)]
-1. **Fine-Grained Entity Typing for Domain Independent Entity Linking**. 2020. In Proceedings of AAAI. [[paper]()]
+1. **Fine-Grained Entity Typing for Domain Independent Entity Linking**. 2020. In Proceedings of AAAI. [[paper](https://www.cs.utexas.edu/~yasumasa/papers/et4el_arxiv.pdf)]
 
 and a lot~
 
