@@ -26,8 +26,6 @@ This repo contains a list of Fine-grained Entity Typing (FET) papers in various 
 1. **Embedding Methods for Fine Grained Entity Type Classification**. 2015. In Proceedings of ACL. [[paper](https://aclanthology.org/P15-2048.pdf)]
 1. **Fine-Grained Entity Typing with High-Multiplicity Assignments**. 2017. In Proceedings of ACL. [[paper](https://aclanthology.org/P17-2052.pdf)]
 
----
-
 ### Neural Methods
 
 #### Mention Representation Learning
