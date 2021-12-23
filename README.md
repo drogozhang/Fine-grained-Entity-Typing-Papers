@@ -72,7 +72,7 @@ This repo contains a list of Fine-grained Entity Typing (FET) papers in various 
 1. **CHEMNER: Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision**. 2021. In Proceedings of EMNLP. [[paper](https://aclanthology.org/2021.emnlp-main.424.pdf)]
 
 
-### Zero-shot FET Setting
+### Zero-shot FET
 
 1. **Label Embedding for Zero-shot Fine-grained Named Entity Typing**. 2016. In Proceedings of COLING. [[paper]()]
 1. **OTyper: A Neural Architecture for Open Named Entity Typing**. 2018. In Proceedings of AAAI. [[paper]()]
