@@ -74,13 +74,13 @@ This repo contains a list of Fine-grained Entity Typing (FET) papers in various 
 
 ### Zero-shot FET
 
-1. **Label Embedding for Zero-shot Fine-grained Named Entity Typing**. 2016. In Proceedings of COLING. [[paper]()]
-1. **OTyper: A Neural Architecture for Open Named Entity Typing**. 2018. In Proceedings of AAAI. [[paper]()]
-1. **Zero-Shot Open Entity Typing as Type-Compatible Grounding**. 2018. In Proceedings of EMNLP. [[paper]()]
-1. **Description-Based Zero-shot Fine-Grained Entity Typing**. 2019. In Proceedings of NAACL. [[paper]()]
-1. **MZET: Memory Augmented Zero-Shot Fine-grained Named Entity Typing**. 2020. In Proceedings of COLING. [[paper]()]
-1. **Neural Zero-Shot Fine-Grained Entity Typing**. 2020. In Proceedings of WWW. [[paper]()]
-1. **An Empirical Study on Multiple Information Sources for Zero-Shot Fine-Grained Entity Typing**. 2021. In Proceedings of EMNLP. [[paper]()]
+1. **Label Embedding for Zero-shot Fine-grained Named Entity Typing**. 2016. In Proceedings of COLING. [[paper](https://aclanthology.org/C16-1017.pdf)]
+1. **OTyper: A Neural Architecture for Open Named Entity Typing**. 2018. In Proceedings of AAAI. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/12070)]
+1. **Zero-Shot Open Entity Typing as Type-Compatible Grounding**. 2018. In Proceedings of EMNLP. [[paper](https://aclanthology.org/D18-1231.pdf)]
+1. **Description-Based Zero-shot Fine-Grained Entity Typing**. 2019. In Proceedings of NAACL. [[paper](https://aclanthology.org/N19-1087.pdf)]
+1. **MZET: Memory Augmented Zero-Shot Fine-grained Named Entity Typing**. 2020. In Proceedings of COLING. [[paper](https://aclanthology.org/2020.coling-main.7.pdf)]
+1. **Neural Zero-Shot Fine-Grained Entity Typing**. 2020. In Proceedings of WWW. [[paper](https://dl.acm.org/doi/abs/10.1145/3366424.3382725)]
+1. **An Empirical Study on Multiple Information Sources for Zero-Shot Fine-Grained Entity Typing**. 2021. In Proceedings of EMNLP. [[paper](https://aclanthology.org/2021.emnlp-main.210.pdf)]
 
 ### Corpus-level FET
 
