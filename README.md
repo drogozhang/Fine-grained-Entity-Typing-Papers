@@ -44,7 +44,7 @@ This repo contains a list of Fine-grained Entity Typing (FET) papers in various 
 1. **Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking**. 2018. In Proceedings of ACL. [[paper](https://aclanthology.org/P18-1010.pdf)]
 1. **Neural Fine-Grained Entity Type Classification with Hierarchy-Aware Loss**. 2018. In Proceedings of NAACL. [[paper](https://aclanthology.org/N18-1002.pdf)]
 1. **An Attentive Fine-Grained Entity Typing Model with Latent Type Representation**. 2019. In Proceedings of EMNLP-IJCNLP.  [[paper](https://aclanthology.org/D19-1641.pdf)]
-1. **Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing**. 2019. In Proceedings of NAACL.[[paper](https://aclanthology.org/N19-1084.pdf)]
+1. **Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing**. 2019. In Proceedings of NAACL. [[paper](https://aclanthology.org/N19-1084.pdf)]
 1. **Hierarchical Entity Typing via Multi-level Learning to Rank**. 2020. In Proceedings of ACL. [[paper](https://aclanthology.org/2020.acl-main.749.pdf)]
 1. **Fine-grained Entity Typing via Label Reasoning**. 2021. In Proceedings of EMNLP. [[paper](https://aclanthology.org/2021.emnlp-main.378.pdf)]
 1. **Enhancing Label Representations with Relational Inductive Bias Constraint for Fine-Grained Entity Typing**. 2021. In Proceedings of IJCAI. [[paper](https://www.ijcai.org/proceedings/2021/529)]
@@ -117,5 +117,5 @@ This repo contains a list of Fine-grained Entity Typing (FET) papers in various 
 1. **Exploring Fine-grained Entity Type Constraints for Distantly Supervised Relation Extraction**. 2014. In Proceeding of COLING. [[paper](https://aclanthology.org/C14-1199.pdf)]
 1. **Fine-Grained Entity Typing for Domain Independent Entity Linking**. 2020. In Proceedings of AAAI. [[paper](https://www.cs.utexas.edu/~yasumasa/papers/et4el_arxiv.pdf)]
 
-and a lot~
+and a lot in down-stream applications.
 
